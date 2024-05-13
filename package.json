@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/PedroLucaV/atividade-rede-social#readme",
   "dependencies": {
-    "nodemon": "^3.1.0"
+    "moment": "^2.30.1",
+    "nodemon": "^3.1.0",
+    "uuid4": "^2.0.3"
   }
 }
