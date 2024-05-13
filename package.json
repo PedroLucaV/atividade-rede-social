@@ -1,0 +1,25 @@
+{
+  "name": "atividade-rede-social",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon ./server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroLucaV/atividade-rede-social.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroLucaV/atividade-rede-social/issues"
+  },
+  "homepage": "https://github.com/PedroLucaV/atividade-rede-social#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
