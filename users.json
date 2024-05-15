@@ -1,24 +1,15 @@
 [
   {
-    "nomeDeUsuario": "jose_carlos",
-    "email": "jose@gmail.com",
-    "senha": "jose1231231231",
+    "nomeDeUsuario": "carlos_jorge",
+    "email": "jas@gmail.com",
+    "senha": "gasadad",
     "idUsuario": 1,
-    "id": "989c7de6-136a-42a5-80db-c94a80c70701",
-    "bio": "",
-    "nome": "jose_carlos",
-    "dataDeRegistro": "May 13th 2024",
-    "imagemDePerfil": ""
-  },
-  {
-    "nomeDeUsuario": "pedro_lucas",
-    "email": "pedro@gmail.com",
-    "senha": "pasdkap231",
-    "idUsuario": 2,
-    "id": "9c4306ab-2409-4022-a291-e8be87b29f50",
-    "bio": "",
-    "nome": "pedro_lucas",
-    "dataDeRegistro": "May 13th 2024",
-    "imagemDePerfil": ""
+    "id": "6e4d2034-3b3c-4b6f-932e-0e96731229fa",
+    "dataDeRegistro": "May 15th 2024",
+    "perfil": {
+      "nome": "carlos_jorge",
+      "bio": "",
+      "imagemDePerfil": "./img/user1.png"
+    }
   }
 ]
